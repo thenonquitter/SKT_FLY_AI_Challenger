@@ -1,0 +1,5 @@
+.venv
+*.pdf
+/Part02_AI_Intergrated_Programming
+/Part03_OpenCV
+/Part04_DLModel
